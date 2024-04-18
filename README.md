@@ -1,2 +1,1 @@
-# kabuverdianuwithAlexVarela
-kabuverdianu with Alex Varela
+# kabuverdi
